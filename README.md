@@ -1,9 +1,7 @@
 ### Hi, My name is Guilherme Galvão and I´m currently learning to become a *Data Scientist*!
-_
-_
-_
-_
-_
+<br />
+<br />
+<br />
 
 
 <div>
