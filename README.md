@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, My name is Guilherme Galvão and I´m currently learning to become a *Data Scientist*!
+
+![Snake animation](https://github.com/GalvaoGui/GalvaoGui/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **GalvaoGui/GalvaoGui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
