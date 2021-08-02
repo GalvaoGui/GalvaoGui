@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about investments.
 - 📫 How to reach me: <a href="https://bit.ly/3xIJ1qr"> Linkedin <a/>
-- 😅 Fun fact: I think C looks like Python.
 <div/>
 
 ##
